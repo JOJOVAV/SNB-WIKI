@@ -2,6 +2,7 @@
 description: Welcome page
 ---
 
-# SNB WIKI
+# Welcome to SNB WIKI
 
-Welcome&#x20;
+Welcome to the SNB Wiki\
+If you want to help contribute with this please make a Pull-Request(PR) to edit.

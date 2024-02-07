@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SNB WIKI](README.md)
+* [Welcome to SNB WIKI](README.md)
